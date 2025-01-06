@@ -12,7 +12,7 @@ namespace CadeRBackendSayHello.Controllers
         public string AddToUserNames(string userName)
         {
               
-            return $"Hello, {userName}";
+            return $"Hello {userName}, Nice to see you again.";
         }
 
     }
