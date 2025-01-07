@@ -11,4 +11,6 @@ Things to turn in:
 - project, zipped
 - github link in comments
 
-#### Peer Review: 
+#### Peer Review: Brock Spacek
+
+Comments: Good Job, Code takes the user input as intended and outputs a greeting.
